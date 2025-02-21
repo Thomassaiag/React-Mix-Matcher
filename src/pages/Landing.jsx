@@ -2,6 +2,6 @@ import React from 'react'
 
 export const Landing = () => {
   return (
-    <div>Landing</div>
+    <a href='/about'>about</a>
   )
 }
