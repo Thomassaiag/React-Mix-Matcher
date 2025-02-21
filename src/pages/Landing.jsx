@@ -1,7 +1,5 @@
-import React from 'react'
+import React from "react";
 
 export const Landing = () => {
-  return (
-    <a href='/about'>about</a>
-  )
-}
+	return <div>Landing</div>;
+};
